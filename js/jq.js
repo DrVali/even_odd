@@ -1,6 +1,4 @@
  function oddeven() {
-    const lbl = document.getElementById("result");
-
      let num1 = document.getElementById("num").value;
      let entered_number  = num1% 2;
 
